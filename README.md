@@ -2,6 +2,7 @@
 <h3 align="center">I am a student pursuing my btech degree in SRM. I am a passionate learner and currently working on web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumitha155&label=Profile%20views&color=0e75b6&style=flat" alt="madhumitha155" /> </p>
+<img  align="right" src=https://github.com/Madhumitha155/Madhumitha155/blob/main/it-works-if-you-work-it-mental-health-action-day.gif height="500" width="500"></img>
 
 - 🌱 I’m currently learning **Java,Reactjs,Threejs**
 
@@ -10,8 +11,7 @@
 - 📫 How to reach me **madgood80@gmail.com**
 
 - ⚡I am a happy soul
-<p align="right">
-<img  align="right" src=https://github.com/Madhumitha155/Madhumitha155/blob/main/it-works-if-you-work-it-mental-health-action-day.gif height="500" width="500"></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/madgood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madgood" height="30" width="40" /></a>
